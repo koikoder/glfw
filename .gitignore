@@ -99,3 +99,6 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+# Out
+bin/
+bin-int/
